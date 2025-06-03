@@ -1,0 +1,1 @@
+export * as settingsService from './settingsService';

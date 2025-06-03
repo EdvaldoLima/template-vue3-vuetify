@@ -1,0 +1,12 @@
+{
+  "title": "Settings",
+  "description": "Configure the application settings",
+  "tabs": {
+    "theme": "Theme",
+    "login": "Login",
+    "profiles": "Profiles",
+    "accessibility": "Accessibility",
+    "menu": "Menu Configuration",
+    "flags": "Flags"
+  }
+}
