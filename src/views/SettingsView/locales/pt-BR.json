@@ -1,11 +1,4 @@
 {
   "title": "Configurações",
-  "description": "Configure as configurações do aplicativo",
-  "tabs": {
-    "theme": "Tema",
-    "login": "Login",
-    "profiles": "Perfis",
-    "accessibility": "Acessibilidade",
-    "menu.configuration": "Configuração do Menu"
-  }
+  "description": "Configure as configurações do aplicativo"
 }
